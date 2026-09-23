@@ -1,16 +1,20 @@
-## Hi there 👋
+# Colt Nichols
 
-<!--
-**coltwnichols-eng/coltwnichols-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Technical Program Manager · Operations technology · Data systems**
 
-Here are some ideas to get you started:
+I turn complex operational workflows into clear requirements, testable system behavior, and practical launch plans. My experience spans transportation and workforce operations at Amazon, Walmart, and Flix, working across business teams, product, engineering, and analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work on
+
+- **Technical programs:** scope, dependencies, ownership, risk, testing, rollout, and adoption.
+- **Operational data:** SQL and Python analysis, source-to-reporting validation, reconciliations, and data quality checks.
+- **System design:** field and workflow mapping, business rule translation, system-of-record decisions, and integration planning.
+- **Decision support:** Excel and Tableau models and reporting that help teams act on what the data actually says.
+
+## Featured project
+
+**[Ops Data Reconciliation Lab](https://github.com/coltwnichols-eng/ops-data-reconciliation-lab)** — a runnable, synthetic Python and SQL example that validates event feeds against daily summaries, surfaces data quality exceptions, and applies a release gate. Its [decision and risk brief](https://github.com/coltwnichols-eng/ops-data-reconciliation-lab/blob/main/docs/decision-and-risk-brief.md) connects technical findings to owners, checks, and launch decisions.
+
+## Tools
+
+`SQL` · `Python` · `Excel` · `Tableau` · `Snowflake`
